@@ -11,3 +11,5 @@ Content in the directory:
 3. "./train_data/anns_human". The folder of human annotations.
 4. "./train_data/anns_vehicle" The folder of vehicle annotations.
 5. "./test_data/*" Similar to the training set above
+
+The Google Drive link is https://drive.google.com/file/d/1g6phLXIWLrEFwlj_7pNPZPh6KsGbUljD/view?usp=sharing.
